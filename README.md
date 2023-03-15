@@ -5,8 +5,8 @@ Hosted at :
 
 https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment7-Divyachelikani/
 
-Hunter page: https://github.com/44-563-Web-Apps-S23/44563-webapps-s23-assignment7-Divyachelikani/blob/main/hunter.html
+Hunter page: https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment7-Divyachelikani/hunter.html
 
-React page: https://github.com/44-563-Web-Apps-S23/44563-webapps-s23-assignment7-Divyachelikani/blob/main/react.html
+React page: https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment7-Divyachelikani/react.html
 
-Delayq page: https://github.com/44-563-Web-Apps-S23/44563-webapps-s23-assignment7-Divyachelikani/blob/main/delayq.html
+Delayq page: https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment7-Divyachelikani/delayq.html
