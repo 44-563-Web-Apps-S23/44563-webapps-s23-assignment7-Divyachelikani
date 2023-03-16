@@ -67,7 +67,8 @@
         <br>
 	    <input class="btn" type="button" value="Get" onclick="get()">
 	    <input class = "btn" type="button" value="Delay" onclick = "delay()">
-        <input class = "btn" type="button" value="Promote" onclick = "promote()">
+		<input class = "btn" type="button" value="Promote" onclick = "promote()">
+        
 
 	
 <script>
@@ -117,6 +118,8 @@
 			}
 	}
 
+    
+        
     function promote()
 	
 	{
@@ -125,9 +128,7 @@
             let num = Math.floor(Math.random()* length_elements)
             let randNum = queueItems[num]
 			randNum.parentNode.insertBefore(randNum,randNum.parentNode.firstChild)
-
-        
-    }
+	}
 </script>
 </body>
 </html>
